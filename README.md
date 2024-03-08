@@ -3,12 +3,19 @@ My name is Rowe Tampus
 
 
 Java Developer || System Developer || Systems Networking
+
 I have been learning to code recently when I entered school at ASU as an Information Technology major.
+
 I currently am working on Java technologies and its back-end framework on Springboot.
+
 I have experience in HTML/CSS/JS , Python, and Java* 
+
 🌍  I'm based in California*
+
 ✉️  You can contact me at [ruvier20144@gmail.com](mailto:ruvier20144@gmail.com)*
+
 🧠  I'm learning React, JavaScript, and Java Spring*
+
 🤝  I'm open to collaborating on Making a fullstack environment with a functional Front-End style and Integerating Back end with Java Springboot* ⚡  I want to be batman. And I like cats.
 
 ### Skills
