@@ -3,7 +3,7 @@ GitHub Profile README Generator
 Star this repo19330
 Fork on GitHub5755
 <h1 align="center">Hi 👋, I'm Rowe Terre Antoine Tampus</h1>
-<h3 align="center">A passionate frontend developer from CA</h3>
+<h3 align="center">A passionate frontend developer from California</h3>
 
 - 🔭 I’m currently working on **Data Structures on Java**
 
